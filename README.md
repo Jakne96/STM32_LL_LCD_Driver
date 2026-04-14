@@ -17,3 +17,7 @@ CLK - PA5 (SCK)
 CS - PA9
 DC - PA1
 RST - PA3
+
+Screen from the logic analyzer, right after clicking reset on the board:
+
+<img width="2170" height="341" alt="image" src="https://github.com/user-attachments/assets/3d7f7c0d-808d-4376-a95b-28bbc28a15ed" />
