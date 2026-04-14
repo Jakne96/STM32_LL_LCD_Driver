@@ -11,11 +11,17 @@ board. When it's not connected, it displays only white screen. I connected the L
 <img width="1950" height="1174" alt="image" src="https://github.com/user-attachments/assets/33e789ec-dc2d-4e42-83ee-e940f9923703" />
 
 VCC - 3.3V
+
 GND - GND
+
 DIN - PA6 (MISO)
+
 CLK - PA5 (SCK)
+
 CS - PA9
+
 DC - PA1
+
 RST - PA3
 
 Screen from the logic analyzer, right after clicking reset on the board:
