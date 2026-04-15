@@ -14,7 +14,7 @@ VCC - 3.3V
 
 GND - GND
 
-DIN - PA6 (MISO)
+DIN - PA6 (MOSI)
 
 CLK - PA5 (SCK)
 
